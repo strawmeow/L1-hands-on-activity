@@ -4,4 +4,3 @@ console.log("Welcome, " + name);
 
 VM171:1 Hello, World!
 VM171:3 Welcome, Student
-undefined
